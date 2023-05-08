@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DaftarBukuPerpustakaan</string>
+    <string-array name="items_options">
+        <item>Ubah</item>
+        <item>Hapus</item>
+        <item>Batal</item>
+    </string-array>
+</resources>
